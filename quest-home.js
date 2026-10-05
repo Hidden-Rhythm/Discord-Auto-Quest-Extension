@@ -208,7 +208,7 @@
 
     const credit = document.createElement('p');
     credit.style.cssText = 'margin: 0; font-size: 14px; color: #ccc;';
-    credit.innerHTML = 'Made by <a href="https://pastebin.com/RCdJtTTE" target="_blank" style="color: #fff; font-weight: bold; text-decoration: none;">Hidden_Rhythm</a>';
+    credit.innerHTML = 'Made by <a href="https://pastebin.com/jvjk476n" target="_blank" style="color: #fff; font-weight: bold; text-decoration: none;">Hidden_Rhythm</a>';
     panel.appendChild(credit);
 
     document.body.appendChild(panel);
