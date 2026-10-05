@@ -2,7 +2,7 @@
   'use strict';
 
   let isPanelExpanded = false;
-  let expandButtonReference;
+  let expandButtonReference; 
   const questStateCache = new Map();
 
   const STYLES = {
