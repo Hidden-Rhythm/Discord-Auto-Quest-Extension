@@ -64,26 +64,26 @@ The extension operates through several components:
 ┌──────────────────────┐
 │     Discord Web          │
 └──────────┬───────────┘
-           │
-           ▼
+             │
+             ▼
 ┌──────────────────────┐
 │   Quest Home UI          │
 │  Progress / Controls     │
 └──────────┬───────────┘
-           │
-           ▼
+             │
+             ▼
 ┌──────────────────────┐
 │  Background Worker       │
 │  Script Injection        │
 └──────────┬───────────┘
-           │
-           ▼
+             │
+             ▼
 ┌──────────────────────┐
 │   Quest Code             │
 │ Webpack / Quest API.     │
 └──────────┬───────────┘
-           │
-           ▼
+             │
+             ▼
 ┌──────────────────────┐
 │ Discord Quest APIs       │
 │ Progress / Heartbeat     │
@@ -152,7 +152,7 @@ It can display:
 
 ```text
 ┌─────────────────────────────────┐
-│ Running Quests              ▼        │
+│ Running Quests                      ▼│
 └─────────────────────────────────┘
 
 ┌─────────────────────────────────┐
