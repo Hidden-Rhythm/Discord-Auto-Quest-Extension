@@ -62,31 +62,31 @@ The extension operates through several components:
 
 ```text
 ┌──────────────────────┐
-│     Discord Web      │
+│     Discord Web          │
 └──────────┬───────────┘
            │
            ▼
 ┌──────────────────────┐
-│   Quest Home UI      │
-│  Progress / Controls │
+│   Quest Home UI          │
+│  Progress / Controls     │
 └──────────┬───────────┘
            │
            ▼
 ┌──────────────────────┐
-│  Background Worker   │
-│  Script Injection    │
+│  Background Worker       │
+│  Script Injection        │
 └──────────┬───────────┘
            │
            ▼
 ┌──────────────────────┐
-│   Quest Code         │
-│ Webpack / Quest API  │
+│   Quest Code             │
+│ Webpack / Quest API.     │
 └──────────┬───────────┘
            │
            ▼
 ┌──────────────────────┐
-│ Discord Quest APIs   │
-│ Progress / Heartbeat │
+│ Discord Quest APIs       │
+│ Progress / Heartbeat     │
 └──────────────────────┘
 ```
 
@@ -152,15 +152,15 @@ It can display:
 
 ```text
 ┌─────────────────────────────────┐
-│ Running Quests              ▼   │
+│ Running Quests              ▼        │
 └─────────────────────────────────┘
 
 ┌─────────────────────────────────┐
-│ Quest Name              120/300 │
-│ Another Quest           300/300 │
-│                                 │
-│ Discord ID | Auto Quest         │
-│ Made by Hidden_Rhythm           │
+│ Quest Name              120/300.      │
+│ Another Quest           300/300       │
+│                                       │
+│ Discord ID | Auto Quest               │
+│ Made by Hidden_Rhythm                 │
 └─────────────────────────────────┘
 ```
 
